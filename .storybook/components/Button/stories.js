@@ -3,7 +3,7 @@ import { storiesOf } from '@kadira/storybook';
 
 import { checkA11y } from './../../../src';
 
-import Button from './component'
+import Button from './component';
 
 import Faker from 'faker';
 
